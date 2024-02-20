@@ -37,4 +37,6 @@
 
   ## Walkthrough
 
-  [Walkthrough](https://github.com/RamisaChowdhury/README-generator/blob/main/project-11-walkthrough.mp4)
+  You can view a walkthrough video at the following link:
+
+  [Application walkthrough](https://github.com/RamisaChowdhury/README-generator/blob/main/project-11-walkthrough.mp4)
